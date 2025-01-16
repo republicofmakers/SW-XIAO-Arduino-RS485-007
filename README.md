@@ -1,7 +1,8 @@
 # SW-XIAO-Arduino-RS485-007
 
 Here is simple RS485 code for testing MAX485 module and XIAO Boards.
-
+<br>
+<br>
 Control Led Brightness with Potentiometer:
 
 Demonstration (potentiometer is fully off = LED OFF)
